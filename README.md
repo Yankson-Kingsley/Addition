@@ -24,14 +24,6 @@
 | Ethical Hacking | JavaScript | Adobe XD |
 | Risk Assessment | React (learning) | 
 
----
-
-## 📂 Repositories
-
-- [Portfolio Website](#) - *Coming soon*
-- [Cybersecurity Scripts](#) - *Coming soon*
-- [UI/UX Projects](#) - *Coming soon*
----
 
 ## 📬 Connect With Me
 
